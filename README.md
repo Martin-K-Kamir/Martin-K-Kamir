@@ -11,6 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="30" height="30" style="margin-right: 12px;" />
   <img src="https://user-images.githubusercontent.com/55933076/185502204-67d12554-da27-4136-baae-05acccacb48e.svg" alt="CSS" width="30" height="30" style="margin-right: 12px;" />
   <img src="https://user-images.githubusercontent.com/55933076/185502191-7bfd1a72-eb6f-4d23-9fa2-94921445bd41.svg" alt="HTML" width="30" height="30" style="margin-right: 12px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="GitHub" width="30" height="30" style="margin-right: 12px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
 </p>
 
