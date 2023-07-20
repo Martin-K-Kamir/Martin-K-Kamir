@@ -19,5 +19,5 @@
 - 🌍 Based in **Prague**, Czech Republic
 - 👨‍💻 **Frontend Developer** 2 years at **Rondo**, a platform offering fun online games with great prizes
 - 🎯 Currently Focused on advancing my skills through [Scrimba's Frontend Developer Career Path course](https://scrimba.com/learn/frontend)
-- 🧠 Currently exploring the world of **TypeScript**
+- 🧠 Currently improving my skill in **React & Redux**
 - 📫 Feel free to reach out to me at martin.k.kamir@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/martin-kamir/). Let's chat!
